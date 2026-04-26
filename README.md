@@ -1,7 +1,6 @@
 # Re:Echo
 > **Note:** This is a personal side project developed in my spare time. Progress depends on my personal schedule, so please expect updates to be gradual. Thank you for your patience!
 
-<img width="1477" height="829" alt="image" src="https://github.com/user-attachments/assets/afa1fd8c-ec57-4b1a-bb1e-75e9853bc1bf" /><img width="1486" height="829" alt="image" src="https://github.com/user-attachments/assets/c941c941-58c5-4b99-96b3-66685cbaa30c" /># Re-Echo
 ios galgame emu
 # Re:Echo
 **A Next-Generation Galgame Runtime Framework for iOS / iPadOS.**
