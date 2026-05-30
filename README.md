@@ -65,7 +65,3 @@ This project does not plan to support p12 signing or provide any signing service
 
 This is a personal hobby project. Features will be refined slowly, and the project may stay in one stage for a long time. You are welcome to try it as an experimental iOS ONS emulator, but please do not expect it to become a universal all-engine, all-platform, all-format compatibility tool in the near future.
 Compatibility: Requires iOS 26.0 or later.
-
-
-## Feel free to join our Discord to follow our progress and updates
-https://discord.gg/MeJkYV6ghj
