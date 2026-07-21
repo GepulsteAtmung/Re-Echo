@@ -1,3 +1,12 @@
+<p align="right">
+  <b>English</b> | 
+  <a href="./ReEcho_README_ZH-TW.md">繁體中文</a> | 
+  <a href="./ReEcho_README_JA.md">日本語</a>
+</p>
+
+---
+
+
 # Re:Echo
 
 > A Galgame and visual novel library and runtime for iOS, iPadOS, and macOS, built with modern SwiftUI.
