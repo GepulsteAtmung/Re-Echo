@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="./README.md">English</a> | 
+  <a href="./ReEcho_README_ZH-TW.md">繁體中文</a> | 
+  <b>日本語</b>
+</p>
+
+---
+
+
 # Re:Echo
 
 > モダンなSwiftUIで開発された、iOS、iPadOS、macOS向けGalgame／ビジュアルノベル用ライブラリ兼ランタイム。
