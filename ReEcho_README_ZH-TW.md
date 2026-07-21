@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="./README.md">English</a> | 
+  <b>繁體中文</b> | 
+  <a href="./ReEcho_README_JA.md">日本語</a>
+</p>
+
+---
+
+
 # Re:Echo
 
 > 使用現代 SwiftUI 製作，面向 iOS、iPadOS 與 macOS 的 Galgame／視覺小說遊戲庫與執行工具。
