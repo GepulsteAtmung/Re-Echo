@@ -6,7 +6,7 @@
 
 ---
 
-Due to the lack of traction and interest, this project has been officially archived, and the associated release resources/downloads have been removed. Depending on future circumstances and feedback, I may consider refining the app and releasing it on the **App Store**. Thank you to everyone who previously checked out or supported this project!
+Due to the lack of traction and interest, this project has been officially archived, and the associated release resources/downloads have been removed. Depending on future circumstances and feedback, I may consider refining the app and releasing it on the **App Store**. Thank you to everyone who previously checked out or supported this project.
 
 # Re:Echo
 
